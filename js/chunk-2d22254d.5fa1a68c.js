@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22254d"],{cdc9:function(n,t,c){"use strict";c.r(t);var r=c("7a23"),e={class:"titulo-1"};function o(n,t){return Object(r["r"])(),Object(r["d"])("h2",e," El trabajo interior ")}var a=c("6b0d"),d=c.n(a);const i={},s=d()(i,[["render",o]]);t["default"]=s}}]);
-//# sourceMappingURL=chunk-2d22254d.5fa1a68c.js.map
