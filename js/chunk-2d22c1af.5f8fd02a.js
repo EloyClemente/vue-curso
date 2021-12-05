@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d22c1af"],{f28e:function(e,n,a){"use strict";a.r(n);var c=a("7a23"),r=Object(c["f"])("p",{class:"titulo-2"}," Fortalecer la consciencia de mí ",-1),t=Object(c["f"])("p",null," Profundizar en mi yo. Llegar al centro. Esta fase será larga. ",-1);function o(e,n){return Object(c["r"])(),Object(c["e"])(c["a"],null,[r,t],64)}var l=a("6b0d"),s=a.n(l);const u={},i=s()(u,[["render",o]]);n["default"]=i}}]);
-//# sourceMappingURL=chunk-2d22c1af.5f8fd02a.js.map

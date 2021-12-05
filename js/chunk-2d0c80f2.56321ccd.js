@@ -1,2 +1,0 @@
-(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c80f2"],{"52ed":function(e,t,n){"use strict";n.r(t);var a=n("7a23"),c=Object(a["f"])("h2",{class:"titulo-1"}," Atravesar la angustia ",-1);function r(e,t){var n=Object(a["x"])("router-view");return Object(a["r"])(),Object(a["e"])(a["a"],null,[c,Object(a["h"])(n)],64)}var u=n("6b0d"),s=n.n(u);const o={},b=s()(o,[["render",r]]);t["default"]=b}}]);
-//# sourceMappingURL=chunk-2d0c80f2.56321ccd.js.map
