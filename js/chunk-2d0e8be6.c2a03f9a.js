@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0e8be6"],{"8b28":function(e,n,r){"use strict";r.r(n);var a=r("7a23"),c=Object(a["f"])("p",{class:"titulo-2"}," Observar y comprender ",-1),t=Object(a["f"])("p",null," Observarme hasta comprender a fondo mi personalidad. ",-1);function o(e,n){return Object(a["r"])(),Object(a["e"])(a["a"],null,[c,t],64)}var s=r("6b0d"),b=r.n(s);const d={},p=b()(d,[["render",o]]);n["default"]=p}}]);
-//# sourceMappingURL=chunk-2d0e8be6.7b1123e6.js.map
+//# sourceMappingURL=chunk-2d0e8be6.c2a03f9a.js.map

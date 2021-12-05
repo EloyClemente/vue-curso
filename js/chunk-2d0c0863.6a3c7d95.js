@@ -1,2 +1,2 @@
 (window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d0c0863"],{"41c3":function(e,n,l){"use strict";l.r(n);var t=l("7a23"),c=Object(t["f"])("p",{class:"titulo-2"}," El trabajo con el inconsciente ",-1),u=Object(t["f"])("p",null," Este bloque tiene dos partes: ",-1),a=Object(t["g"])(),b=Object(t["f"])("br",null,null,-1),i=Object(t["f"])("ul",null,[Object(t["f"])("li",null," - Reeducar la mente infantil. "),Object(t["f"])("li",null," - Liquidar el pasado. ")],-1);function o(e,n){return Object(t["r"])(),Object(t["e"])(t["a"],null,[c,u,a,b,i],64)}var r=l("6b0d"),s=l.n(r);const d={},f=s()(d,[["render",o]]);n["default"]=f}}]);
-//# sourceMappingURL=chunk-2d0c0863.fa940c46.js.map
+//# sourceMappingURL=chunk-2d0c0863.6a3c7d95.js.map
